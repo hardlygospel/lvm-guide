@@ -149,4 +149,7 @@ Physical Disk          →    Physical Volume (PV)    →    Volume Group (VG)  
 | [Your First LVM Setup]({% link 02-setup.md %}) | Step-by-step: create PV → VG → LV → mount |
 | [Resizing Volumes]({% link 03-resize.md %}) | Grow live, shrink safely, add new disks |
 | [Snapshots]({% link 04-snapshots.md %}) | Instant backups with copy-on-write |
+| [LVM with SAN / LUNs on Proxmox]({% link 05-san-luns-proxmox.md %}) | iSCSI, Fibre Channel, multipath, Proxmox storage |
+| [VMware vs Proxmox Storage]({% link 06-vmware-vs-proxmox.md %}) | Concept mapping: VMFS, VMDK, RDM, vSAN → Proxmox |
+| [Migrating VMs from VMware]({% link 07-migration.md %}) | OVA export, qemu-img, virt-v2v, SAN reuse |
 | [Cheat Sheet]({% link cheatsheet.md %}) | All commands in one place |
