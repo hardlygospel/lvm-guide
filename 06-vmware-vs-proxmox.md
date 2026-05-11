@@ -331,4 +331,4 @@ ESXi host               →    Proxmox node
 
 ---
 
-Next: [Chapter 7 — Migrating VMs from VMware to Proxmox]({% link 07-migration.md %})
+Next: [Chapter 7 — Migrating VMs from VMware to Proxmox](../07-migration/)

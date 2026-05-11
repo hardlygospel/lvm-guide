@@ -145,11 +145,11 @@ Physical Disk          →    Physical Volume (PV)    →    Volume Group (VG)  
 
 | Page | What you'll learn |
 |---|---|
-| [The Three Layers]({% link 01-concepts.md %}) | PVs, VGs, and LVs explained with diagrams |
-| [Your First LVM Setup]({% link 02-setup.md %}) | Step-by-step: create PV → VG → LV → mount |
-| [Resizing Volumes]({% link 03-resize.md %}) | Grow live, shrink safely, add new disks |
-| [Snapshots]({% link 04-snapshots.md %}) | Instant backups with copy-on-write |
-| [LVM with SAN / LUNs on Proxmox]({% link 05-san-luns-proxmox.md %}) | iSCSI, Fibre Channel, multipath, Proxmox storage |
-| [VMware vs Proxmox Storage]({% link 06-vmware-vs-proxmox.md %}) | Concept mapping: VMFS, VMDK, RDM, vSAN → Proxmox |
-| [Migrating VMs from VMware]({% link 07-migration.md %}) | OVA export, qemu-img, virt-v2v, SAN reuse |
-| [Cheat Sheet]({% link cheatsheet.md %}) | All commands in one place |
+| [The Three Layers](01-concepts/) | PVs, VGs, and LVs explained with diagrams |
+| [Your First LVM Setup](02-setup/) | Step-by-step: create PV → VG → LV → mount |
+| [Resizing Volumes](03-resize/) | Grow live, shrink safely, add new disks |
+| [Snapshots](04-snapshots/) | Instant backups with copy-on-write |
+| [LVM with SAN / LUNs on Proxmox](05-san-luns-proxmox/) | iSCSI, Fibre Channel, multipath, Proxmox storage |
+| [VMware vs Proxmox Storage](06-vmware-vs-proxmox/) | Concept mapping: VMFS, VMDK, RDM, vSAN → Proxmox |
+| [Migrating VMs from VMware](07-migration/) | OVA export, qemu-img, virt-v2v, SAN reuse |
+| [Cheat Sheet](cheatsheet/) | All commands in one place |
